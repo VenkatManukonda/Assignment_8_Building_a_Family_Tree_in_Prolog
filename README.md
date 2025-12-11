@@ -22,7 +22,7 @@ This repository contains a simple Family Tree system implemented in Prolog.
 ## How to Run
 
 1. Install SWI-Prolog: https://www.swi-prolog.org
-2. Load the Prolog file:
+2. Load the Prolog file: `family_tree.pl`.
 3. Try sample queries from `sample_queries.txt`.
 
 
