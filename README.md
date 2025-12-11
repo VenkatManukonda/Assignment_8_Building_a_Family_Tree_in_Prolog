@@ -1,8 +1,7 @@
 # Prolog Family Tree Program
 
 This repository contains a simple Family Tree system implemented in Prolog.
-The project is part of an academic assignment exploring logical inference,
-recursive rules, and relationship modeling using Prolog.
+
 
 ## Features
 
@@ -24,3 +23,6 @@ recursive rules, and relationship modeling using Prolog.
 
 1. Install SWI-Prolog: https://www.swi-prolog.org
 2. Load the Prolog file:
+3. Try sample queries from `sample_queries.txt`.
+
+
