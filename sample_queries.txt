@@ -1,0 +1,22 @@
+% Sample Queries for Family Tree Program
+
+% 1. Children of Mary
+?- parent(mary, C).
+
+% 2. Grandchildren of John
+?- grandparent(john, G).
+
+% 3. Siblings of Tom
+?- sibling(tom, S).
+
+% 4. Are Alice and Charlie cousins?
+?- cousin(alice, charlie).
+
+% 5. List all descendants of John
+?- descendant(john, D).
+
+% 6. Who are uncles/aunts of George?
+?- uncle_aunt(U, george).
+
+% 7. All cousin pairs
+?- cousin(X, Y).
